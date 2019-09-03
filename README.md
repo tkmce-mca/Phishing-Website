@@ -7,7 +7,7 @@ Learning python
 ***03/09/2019***
 
 What has done on previous week?
- + Build the User Interface.
+ + Build the User Interface (uploaded in folder miniproject named index.php).
  + Studied python.
  
  Plan for next week?
